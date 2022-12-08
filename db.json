@@ -1,0 +1,18 @@
+{
+    "user":[
+        { 
+            "username":"ziya",
+            "avatar_url":"https://i.pravatar.cc/150?img=47",
+            "email":"ziya123@gmail.com",
+            "fullname":"Ziya gil",
+            "password":"ziya123"
+        },
+        { 
+          "username":"zoho",
+          "avatar_url":"https://i.pravatar.cc/150?img=47",
+          "email":"zoho123@gmail.com",
+          "fullname":"Zoho gil",
+          "password":"zoho123"
+      }
+    ]
+}
